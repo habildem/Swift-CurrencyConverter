@@ -1,17 +1,17 @@
 Currency Converter
 
-This app fetches exchange rates via an API and displays real-time currency exchange information to the user.
+This app fetches exchange rates via an API and displays real-time currency exchange information to the user. You can refresh the data by clicking a button.
 
 Features
 
 	•	Displays real-time exchange rates.
-	•	Automatically updates data using an API.
-	•	Simple and user-friendly.
+	•	Data is updated when you click the refresh button.
+	•	Simple and user-friendly interface.
 
 How to Use
 
 	1.	Download or clone this project from GitHub.
-	2.	Run the app to see the exchange rates in real-time.
+	2.	Open the app and click the “Refresh” button to update the exchange rates.
 
 Requirements
 
